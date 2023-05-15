@@ -1,0 +1,41 @@
+.vest{
+    border:1px solid black;
+    width: 100%;
+    margin:10px; 
+    padding:5px;
+}
+.link{
+    display: inline-block;
+    padding:5px;
+    margin:3px;
+}
+.link:hover{
+    background-color: gray;
+}
+
+.okvir{
+    border:1px solid lightgray;
+    margin:10px;
+}
+.naslovDesni{
+    padding:1px;
+    background-color: lightgray;
+    font-weight: bold;
+    /*font-size:1.1em;*/
+}
+
+.divKomentar{
+    border:1px solid black;
+    margin:3px;
+    padding:3px;
+}
+
+.korisnik{
+    border: 1px solid black;
+    margin: 2px;
+    padding: 2px;
+    cursor: pointer;
+}
+.korisnik:hover{
+    background-color:lightgray;
+}
